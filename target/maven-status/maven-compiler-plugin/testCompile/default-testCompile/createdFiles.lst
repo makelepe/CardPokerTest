@@ -1,0 +1,4 @@
+io\advanced\poker\test\CardPokerTestSuite.class
+io\advanced\poker\test\CardProviderTest.class
+io\advanced\poker\test\CardShufflingImplTest.class
+io\advanced\poker\test\CustomCardPokerEvaluatorImplTest.class

@@ -1,0 +1,4 @@
+
+1. Install Apache Maven (I used version = 3.5.3)
+2. clean compile package and test the project (using "./build_and_test.sh")
+3. run the project (using "./run.sh")
